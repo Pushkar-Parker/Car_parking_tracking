@@ -1,0 +1,9 @@
+Station number: ID_1 Entry time: 2025-05-15 15:29:26
+Station number: ID_2 Entry time: 2025-05-15 15:29:26
+Station number: ID_3 Entry time: 2025-05-15 15:29:26
+Station number: ID_4 Entry time: 2025-05-15 15:29:26
+Station number: ID_5 Entry time: 2025-05-15 15:29:26
+Station number: ID_6 Entry time: 2025-05-15 15:29:26
+Station number: ID_7 Entry time: 2025-05-15 15:29:26
+Station number: ID_7 Entry time: 2025-05-15 15:29:26
+Station number: ID_2 Exit time: 2025-05-15 15:29:26
