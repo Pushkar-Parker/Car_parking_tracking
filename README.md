@@ -19,7 +19,7 @@ A Computer Vision-based Parking Space Time Tracker that monitors individual park
   * Exit time
 
 
-## 🏃‍♂️ Getting Started
+## Getting Started
 
 ### Install dependencies:
 
