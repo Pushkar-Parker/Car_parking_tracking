@@ -33,7 +33,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 📝 Log Format
+## Log Format
 
 The system logs the following details in `parking_log.csv`:
 
