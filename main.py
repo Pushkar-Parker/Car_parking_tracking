@@ -10,8 +10,8 @@ def main(model_path, tracking, csv_path):
     
     analytics.run_video(video_path)
     
-model_path = r'wobot_exp_1\weights\best.onnx'
-video_path = r"D:\software\car_parking\scenarios\scene_1.mp4"
+model_path = r'path\to\model'
+video_path = r"path\to\video"
 csv_path = r'log'
 
 tracking = ['car']
