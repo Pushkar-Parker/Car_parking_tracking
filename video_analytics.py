@@ -130,7 +130,7 @@ class VideoAnalytics():
             dist = min(points_dist)
             min_dist_index = points_dist.index(dist)
 
-            min_center = detected_points[min_dist_index]
+#            min_center = detected_points[min_dist_index]
             dist = int(dist)
 
             if track_ids is not None:
